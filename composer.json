@@ -1,5 +1,5 @@
 {
-    "name": "zintel/tools",
+    "name": "zintel/swagger-generate",
     "description": "A custom Swagger documentation generator for Laravel",
     "type": "library",
     "license": "MIT",
