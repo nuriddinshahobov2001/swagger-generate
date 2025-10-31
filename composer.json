@@ -1,5 +1,5 @@
 {
-    "name": "foziluff/tools",
+    "name": "zintel/tools",
     "description": "A custom Swagger documentation generator for Laravel",
     "type": "library",
     "license": "MIT",
